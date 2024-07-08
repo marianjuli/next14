@@ -28,6 +28,4 @@ bun dev
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 =======
-# next14
-Next js project
 >>>>>>> 00e013d182fc2db8ce3ffd86e89e6be98699759b
